@@ -20,10 +20,10 @@ Receber respostas de um formulário online e automaticamente:
 2. O Zapier captura a nova resposta (Trigger).  
 ![Captura de tela 2025-10-15 002431](https://github.com/user-attachments/assets/bfba2806-041c-4822-bf0f-1bfa8e24450c)
 
-3. O Zap salva os dados em uma planilha do Google Sheets (Action 1).  
+3. O Zapier salva os dados em uma planilha do Google Sheets (Action 1).  
 ![sheets-printscreen](https://github.com/user-attachments/assets/d5bcd6df-d25a-4df9-a421-fc4f990d1ce6)
 
-4. O Zap envia um e-mail automático com os dados (Action 2).
+4. O Zapier envia um e-mail automático com os dados (Action 2).
 ![gmail-printscreen](https://github.com/user-attachments/assets/05ad8fc2-eba6-49ae-b61f-2f9f71db3fc6)
 ![confirmaca-email1](https://github.com/user-attachments/assets/638bc64a-d8b5-4ea1-96da-8e91864d2955)
 
